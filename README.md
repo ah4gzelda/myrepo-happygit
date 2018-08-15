@@ -1,3 +1,3 @@
 # myrepo-happygit
 
-# my first commit is about to happen
+my first commit is about to happen
